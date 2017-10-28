@@ -163,7 +163,7 @@
                                 android:layout_height="match_parent"
                                 android:paddingLeft="3dp"
                                 android:paddingTop="10dp"
-                                android:text="photo"
+                                android:text="look"
                                 android:textColor="@color/cardview_light_background"
                                 android:textSize="9dp" />
 
